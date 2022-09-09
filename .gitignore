@@ -1,0 +1,15 @@
+build.gradle
+course-info.yaml
+course-remote-info.yaml
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+.idea/
+settings.gradle
+zipper.sh
+Digit\ Recognition/lesson-info.yaml
+Digit\ Recognition/lesson-remote-info.yaml
+Digit\ Recognition/stage[1-6]/task.html
+Digit\ Recognition/stage[1-6]/task-info.yaml
+Digit\ Recognition/stage[1-6]/task-remote-info.yaml
